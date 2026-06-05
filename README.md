@@ -1,2 +1,0 @@
-# SupervisedEucledianDistance
-TheTrainingStep1343
